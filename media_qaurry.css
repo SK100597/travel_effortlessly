@@ -1,0 +1,856 @@
+/*Small Devices*/
+@media (max-width: 480px) {
+
+/* header */
+.header_bg {
+    height: 1300px;
+}
+
+/* web title */
+.web_title {
+    margin-top: 300px;
+}
+
+.web_title h1 {
+    font-size: 50px;
+ 
+}
+
+/* search flights */
+.search_flights {
+    margin-top: 175px;
+}
+
+.flight_search_data {
+    padding: 30px;
+    height: 650px;
+}
+
+.from_two_other_data {
+    width: 100%;
+    justify-content: center;
+}
+
+.other_data {
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.d_r_date {
+    width: 400px;
+}
+
+/* top tabs */
+.top_tabs {
+    margin-right: 30px;
+}
+
+.top_tabs button {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 5px;
+}
+
+.search_button {
+    margin: -40px auto 0px auto;
+}
+
+.search_button button {
+    width: 423px;
+}
+
+/* destination section */
+.destination_title {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.destination_images {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    
+}
+
+.destination_1_image {
+    width: 400px;
+    height: 450px;
+
+}
+
+.image_2{
+    margin-left: 0px;
+}
+
+.image_3{
+    margin-left: 0px;
+}
+
+
+/* grand offer */
+.g_o_buttons{
+    margin-right: 0px;
+}
+
+.g_o_text{
+    font-size: 40px;
+}
+
+.g_o_cards .card_1{
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px 0px;
+
+}
+
+.card_offer_data {
+    align-items: center;
+    text-align: center;
+ 
+}
+
+.card_offer_data button {
+    position: initial;
+ 
+}
+
+/* top 10 sights */
+.top_sights_cards{
+    row-gap: 50px;
+
+}
+
+.top_sighet_text p {
+    font-size: 14px !important;
+}
+
+/* map your location */
+.map_title {
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+
+.map_title hr {
+    margin-left: 0px;
+}
+
+/* about us */
+.comments_title {
+    justify-content: flex-start;
+    row-gap: 30px;
+}
+
+.comments_cards {
+    margin-top: 60px;
+}
+
+.comment_card_1 {
+    width: 400px;
+    height: 380px;
+}
+
+.destination_text h3 img {
+    left: 0px;
+    top: 55px;
+}
+
+.comment_card_1 img {
+    width: 75px;
+    height: 75px;
+    top: -40px;
+    left: -40px;
+}
+
+.comments_text p {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 80px;
+}
+
+/* new and update */
+.news_upadate_cards{
+    row-gap: 90px;
+}
+
+.news_upadate_card_1 {
+    width: 250px !important;
+    height: 250px !important;
+}
+
+/* footer section */
+.footer_section {
+    padding: 0px 0px 50px 0px;
+    column-gap: 0px;
+    justify-content: space-around;
+}
+
+.social_media {
+    gap: 50px;
+}
+
+.footer_last_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 10px;
+}
+
+.copyrights {
+    text-align: center;
+}
+   
+}
+
+/*Medium Devices*/
+@media (min-width: 481px) and (max-width: 768px) {
+/* header */
+.header_bg {
+    height: 1240px;
+}
+
+
+/* web title */
+.web_title {
+    margin-top: 300px;
+}
+
+.web_title h1 {
+    font-size: 50px;
+ 
+}
+
+/* search flights */
+.search_flights {
+    margin-top: 175px;
+}
+
+.flight_search_data {
+    padding: 30px;
+    height: 650px;
+}
+
+.from_two_other_data {
+    width: 100%;
+    justify-content: center;
+}
+
+.other_data {
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.d_r_date {
+    width: 400px;
+}
+
+/* top tabs */
+.top_tabs {
+    margin-right: 30px;
+}
+
+.top_tabs button {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 5px;
+}
+
+.search_button {
+    margin: -40px auto 0px auto;
+}
+
+.search_button button {
+    width: 423px;
+}
+
+/* destination section */
+.destination_title {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.destination_images {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    justify-content: center;
+}
+
+.destination_1_image {
+    width: 400px;
+    height: 450px;
+
+}
+
+.image_2{
+    margin-left: 0px;
+}
+
+.image_3{
+    margin-left: 0px;
+    background-position-x: -240px;
+}
+
+
+/* grand offer */
+.g_o_buttons{
+    margin-right: 0px;
+}
+
+.g_o_text{
+    font-size: 40px;
+}
+.g_o_cards{
+    gap: 40px;
+}
+
+
+.g_o_cards .card_1{
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 30px;
+    margin: 30px 0px;
+}
+
+.card_offer_data {
+    align-items: center;
+    text-align: center;
+ 
+}
+
+.card_offer_data button {
+    float: right;
+    bottom: -30px;
+}
+
+/* top 10 sights */
+.top_sights_cards{
+    row-gap: 50px;
+
+}
+
+.top_sighet_text p {
+    font-size: 14px !important;
+}
+
+/* map your location */
+.map_title {
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+
+.map_title hr {
+    margin-left: 0px;
+}
+
+/* about us */
+.comments_title {
+    justify-content: flex-start;
+    row-gap: 30px;
+}
+
+.comments_cards {
+    margin-top: 60px;
+}
+
+.comment_card_1 {
+    width: 100%;
+    height: 330px;
+}
+
+.destination_text h3 img {
+    left: 0px;
+    top: 55px;
+}
+
+.comment_card_1 img {
+    width: 75px;
+    height: 75px;
+    top: -40px;
+    left: -40px;
+}
+
+.comments_text p {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 80px;
+}
+
+/* new and update */
+.news_upadate_cards{
+    row-gap: 90px;
+}
+
+.news_upadate_card_1 {
+    width: 250px !important;
+    height: 250px !important;
+}
+
+/* footer section */
+.footer_section {
+    padding: 0px 0px 50px 0px;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.social_media {
+    gap: 50px;
+}
+
+.footer_last_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 30px;
+}
+
+.copyrights {
+    text-align: center;
+}
+    
+}
+
+/* Large Devices*/
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* header */
+.header_bg {
+    height: max-content;
+}
+
+/* web title */
+.web_title {
+    margin-top: 300px;
+}
+
+.web_title h1 {
+    font-size: 70px;
+}
+
+/* search flights */
+.search_flights {
+    margin-top: 175px;
+}
+
+.flight_search_data {
+    padding: 40px;
+    height: max-content;
+}
+
+.from_two_other_data {
+    width: 100%;
+    justify-content: center;
+
+}
+
+.radio_button {
+    margin-bottom: 20px;
+}
+
+.other_data {
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.d_r_date {
+    width: 400px;
+}
+
+/* top tabs */
+.top_tabs {
+    margin-right: 30px;
+}
+
+.top_tabs button {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 5px;
+}
+
+.search_button {
+    margin: -40px auto 0px auto;
+}
+
+.search_button button {
+    width: 423px;
+}
+
+/* destination section */
+.destination_title {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.destination_images {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    justify-content: center;
+}
+
+.destination_1_image {
+    width: 400px;
+    height: 450px;
+
+}
+
+.image_2{
+    margin-left: 0px;
+}
+
+.image_3{
+    margin-left: 0px;
+    background-position-x: -240px;
+}
+
+
+/* grand offer */
+.g_o_buttons{
+    margin-right: 0px;
+}
+
+.g_o_text{
+    font-size: 40px;
+}
+.g_o_cards{
+    gap: 40px;
+}
+
+.g_o_cards .card_1{
+    flex-wrap: nowrap;
+    justify-content: center;
+    row-gap: 30px;
+    margin: 30px 0px;
+
+}
+
+.card_offer_data {
+    align-items: flex-start;
+    text-align: left;
+ 
+}
+
+.card_offer_data button {
+    float: right;
+    bottom: 10px;
+}
+
+/* top 10 sights */
+.top_sights_cards{
+    row-gap: 50px;
+
+}
+
+.top_sighet_text p {
+    font-size: 14px !important;
+}
+
+/* map your location */
+.map_title {
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+
+.map_title hr {
+    margin-left: 0px;
+}
+
+/* about us */
+.comments_title {
+    justify-content: flex-start;
+    row-gap: 30px;
+}
+
+.comments_title h2 {
+    font-size: 45px;
+}
+
+.comments_cards {
+    margin-top: 60px;
+}
+
+.comment_card_1 {
+    width: 100%;
+    height: 300px;
+}
+
+.destination_text h3 img {
+    left: 0px;
+    top: 55px;
+}
+
+.comment_card_1 img {
+    width: 75px;
+    height: 75px;
+    top: -40px;
+    left: -40px;
+}
+
+.comments_text p {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 80px;
+}
+
+/* new and update */
+.news_upadate_cards{
+    row-gap: 90px;
+}
+
+.news_upadate_card_1 {
+    width: 250px !important;
+    height: 250px !important;
+}
+
+/* footer section */
+.footer_section {
+    padding: 0px 0px 50px 0px;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.social_media {
+    gap: 50px;
+}
+
+.footer_last_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 30px;
+}
+
+.copyrights {
+    text-align: center;
+}
+
+}
+
+/*Extra Large Devices*/
+@media (min-width: 1025px) and (max-width: 1440px) {
+/* header */
+.header_bg {
+    height: 965px;
+}
+
+/* web title */
+.web_title {
+    margin-top: 300px;
+}
+
+.web_title h1 {
+    font-size: 70px;
+}
+
+/* search flights */
+.search_flights {
+    margin-top: 175px;
+}
+
+.flight_search_data {
+    padding: 30px;
+    height: 350px;
+}
+
+.from_two_other_data {
+    width: 100%;
+    justify-content: center;
+
+}
+
+.radio_button {
+    margin-bottom: 20px;
+}
+
+.other_data {
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.d_r_date {
+    width: 400px;
+}
+
+/* top tabs */
+.top_tabs {
+    margin-right: 30px;
+}
+
+.top_tabs button {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 5px;
+}
+
+.search_button {
+    margin: -40px auto 0px auto;
+}
+
+.search_button button {
+    width: 423px;
+}
+
+/* destination section */
+.destination_title {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.destination_images {
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.destination_1_image {
+    width: 400px;
+    height: 450px;
+
+}
+
+.image_2{
+    margin-left: 0px;
+}
+
+.image_3{
+    margin-left: 0px;
+    background-position-x: -240px;
+}
+
+
+/* grand offer */
+.g_o_buttons{
+    margin-right: 0px;
+}
+
+.g_o_text{
+    font-size: 40px;
+}
+.g_o_cards{
+    gap: 40px;
+}
+
+.flight_offers{
+    display: flex;
+    gap: 30px;
+}
+
+.hotel_offers{
+    display: flex;
+    gap: 30px;
+}
+
+.g_o_cards .card_1{
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 30px;
+    width: 295px;
+    margin: 30px 0px;
+
+}
+
+.g_o_view_all {
+    margin-top: 40px;
+}
+
+.card_offer_data {
+    align-items: flex-start;
+    text-align: left;
+ 
+}
+
+.card_offer_data button {
+    float: right;
+    bottom: -30px;
+}
+
+/* top 10 sights */
+.top_sights_cards{
+    row-gap: 50px;
+
+}
+
+.top_sighet_text p {
+    font-size: 14px !important;
+}
+
+/* map your location */
+.map_title {
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+
+.map_title hr {
+    margin-left: 0px;
+}
+
+/* about us */
+.comments_title {
+    justify-content: space-between;
+    row-gap: 30px;
+}
+
+.comments_title h2 {
+    font-size: 45px;
+}
+
+.comments_cards {
+    margin-top: 60px;
+    justify-content: space-evenly;
+}
+
+.comment_card_1 {
+    width: 305px;
+    height: 330px;
+}
+
+.destination_text h3 img {
+    left: 0px;
+    top: 55px;
+}
+
+.comment_card_1 img {
+    width: 75px;
+    height: 75px;
+    top: -40px;
+    left: -40px;
+}
+
+.comments_text p {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 80px;
+}
+
+/* new and update */
+.news_upadate_cards{
+    row-gap: 90px;
+}
+
+.news_upadate_card_1 {
+    width: 250px !important;
+    height: 250px !important;
+}
+
+/* footer section */
+.footer_section {
+    padding: 0px 0px 50px 0px;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.social_media {
+    gap: 50px;
+}
+
+.footer_last_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 50px;
+}
+
+.copyrights {
+    text-align: center;
+}
+
+}
